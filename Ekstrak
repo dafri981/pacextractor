@@ -1,0 +1,2 @@
+cd <path of directory of .pac file>
+~/pacextractor <name of .pac file>
